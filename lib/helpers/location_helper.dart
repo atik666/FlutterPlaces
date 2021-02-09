@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-const GOOGLE_API_KEY = 'AIzaSyAhZp1luQmLNZZzSvIA32uH_f0T8cq9BRE';
+const GOOGLE_API_KEY = 'AIzaSyAsH-Dx9XXyO9jElz7QFWAqshdB84Ez3pw';
 
 class LocationHelper {
   static String generateLocationPreviewImage(
